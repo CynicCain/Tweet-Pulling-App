@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+## Project Statement
 
-You can use the [editor on GitHub](https://github.com/CynicCain/Tweet-Pulling-App/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The appliation developed will be capable of pulling tweets from Twitter using their API's in real time. The purpose of this application is to analyze real time trends in tweets.
+This application will be used only for a lab demonstration, as proof that the developers involved know enough about the Twitter API and coding to begin work on the actual lab application.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Markdown Examples
+
+The following lines are part of the default page text when the website was created. I am leaving them in the document in case I need syntax examples to expand the website later.
 
 ```markdown
 Syntax highlighted code block
@@ -25,13 +27,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CynicCain/Tweet-Pulling-App/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
